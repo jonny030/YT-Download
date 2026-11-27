@@ -1,0 +1,10 @@
+# 下載下來的影片與音訊
+downloads/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
